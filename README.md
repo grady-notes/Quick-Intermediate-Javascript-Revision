@@ -3,8 +3,8 @@
 ### Contents :
 
 - Introduction & History
-- JavaScript Objects
-- JavaScript Functions
+- Objects
+- Functions
 - Classes
 - Callbacks (Coming Soon)
 - Promises (Coming Soon)
