@@ -3,10 +3,9 @@
 ### Contents :
 
 - Introduction & History
-- JavaScript Objects
-- JavaScript Functions
+- Objects
+- Functions
 - Classes
-- Prototypes
 - Callbacks (Coming Soon)
 - Promises (Coming Soon)
 - Generators (Coming Soon)
