@@ -6,7 +6,7 @@
 - Objects
 - Functions
 - Classes
-- Callbacks (Coming Soon)
+- Callbacks
 - Promises (Coming Soon)
 - Generators (Coming Soon)
 - Modules (Coming Soon)
