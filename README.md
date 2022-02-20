@@ -7,6 +7,4 @@
 - Functions
 - Classes
 - Callbacks
-- Promises (Coming Soon)
-- Generators (Coming Soon)
-- Modules (Coming Soon)
+- Promises
